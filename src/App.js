@@ -55,6 +55,7 @@ return (
         <h2>No Movies found</h2>
       </div>
     )}
+    <div className='eee'></div>
   </div>
   );
 };
